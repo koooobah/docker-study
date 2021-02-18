@@ -1,0 +1,16 @@
+{
+  "name": "2-nodejs_redis",
+  "version": "1.0.0",
+  "description": "1. 레디스 이미지를 이용해 컨테이너를 실행합니다.",
+  "main": "index.js",
+  "dependencies": {
+    "redis": "^3.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
